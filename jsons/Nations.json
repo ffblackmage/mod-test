@@ -9,4 +9,19 @@
 
 		"startIntroPart1": "Warm day to you, Aent-Harz Alderfed, great king of Alfanthra and it's people! Settled between the chilling hills of Holdkarz Mountains, our ancestors were great warriors, resistant to the cold and the foul tricks of nature. It was thanks to your many times great grandfather that we united and founded our nation - he was our first ruler, and it was him who saved us all from Holdameon - the demon of ice, and the guardian of Holdkarz. It was thanks to him and his children that we were able to live peacefully in our homes, shielded from the horrors that came from the Mountains. And it is thanks to you that we progressed as a nation. It is thanks to you and your efforts that we were able to discover new technologies, new territories, new ways of living and expressing ourself. It was you who turned our capital city of Skarring into a prosperous city, that made its visitors stand in awe of its beauty. Had a ruler like you not come, we'd still be living in small huts, only thinking of food and survival.",
 		"startIntroPart2": "Another day has come, King Alderfed, and it awaits your commands. Shall you show the world your greatness? Shall you give your enemies more reasons to fear you? Shall you rebuild our civilization, and will it stand the test of time?",
+
+		"introduction": "Warm day to you, leader, I am Aent-Harz Alderfed, king of Alfanthra - the land of snow. Should you aid me in my leadership, I shall aid you as well."
+		"neutralHello": "Ah, it is you. What is your business here with me?"
+		"hatedHello": "Oh, look who's here. What now?"
+		"tradeRequest": "I'd like to propose a deal to you. What do you think of this?"
+		"declaringWar": "Your cities will be a fine addition to my nation. Don't you agree?"
+		"attacked": "So be it. I shall show you why they call me 'smart-king' in our language!"
+		"defeated": "Looks like you've bested us in battle... Perhaps you are more fit for the title 'smart-king'."
+
+		"outerColor": [51,73,255]
+		"innerColor": [51,224,255]
+		"favoredReligion": "Christianity"
+		"uniqueName": "Knowledge of Alderfed"
+		"uniques": //tbd
+		"cities": ["Skarring","Holden","Niverahol","Karrdest","Kolarrd"]
 	

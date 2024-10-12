@@ -1,38 +1,12 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Alfanthra",
+		"leaderName": "Alderfed",
+		"adjective": ["Alfanthrian"],
+		"startBias": ["Tundra"], ["Avoid [Desert]"],
 		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"personality": "Alderfed",
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
-]
+		"startIntroPart1": "Warm day to you, Aent-Harz Alderfed, great king of Alfanthra and it's people! Settled between the chilling hills of Holdkarz Mountains, our ancestors were great warriors, resistant to the cold and the foul tricks of nature. It was thanks to your many times great grandfather that we united and founded our nation - he was our first ruler, and it was him who saved us all from Holdameon - the demon of ice, and the guardian of Holdkarz. It was thanks to him and his children that we were able to live peacefully in our homes, shielded from the horrors that came from the Mountains. And it is thanks to you that we progressed as a nation. It is thanks to you and your efforts that we were able to discover new technologies, new territories, new ways of living and expressing ourself. It was you who turned our capital city of Skarring into a prosperous city, that made its visitors stand in awe of its beauty. Had a ruler like you not come, we'd still be living in small huts, only thinking of food and survival.",
+		"startIntroPart2": "Another day has come, King Alderfed, and it awaits your commands. Shall you show the world your greatness? Shall you give your enemies more reasons to fear you? Shall you rebuild our civilization, and will it stand the test of time?",
+	

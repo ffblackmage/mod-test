@@ -3,9 +3,7 @@
 		"name": "Alfanthra",
 		"leaderName": "Alderfed",
 		"adjective": ["Alfanthrian"],
-		"startBias": ["Tundra"], ["Avoid [Desert]"],
-		"preferredVictoryType": "Scientific",
-		"personality": "Alderfed",
+		"startBias": ["Tundra"],
 
 		"startIntroPart1": "Warm day to you, Aent-Harz Alderfed, great king of Alfanthra and it's people! Settled between the chilling hills of Holdkarz Mountains, our ancestors were great warriors, resistant to the cold and the foul tricks of nature. It was thanks to your many times great grandfather that we united and founded our nation - he was our first ruler, and it was him who saved us all from Holdameon - the demon of ice, and the guardian of Holdkarz. It was thanks to him and his children that we were able to live peacefully in our homes, shielded from the horrors that came from the Mountains. And it is thanks to you that we progressed as a nation. It is thanks to you and your efforts that we were able to discover new technologies, new territories, new ways of living and expressing ourself. It was you who turned our capital city of Skarring into a prosperous city, that made its visitors stand in awe of its beauty. Had a ruler like you not come, we'd still be living in small huts, only thinking of food and survival.",
 		"startIntroPart2": "Another day has come, King Alderfed, and it awaits your commands. Shall you show the world your greatness? Shall you give your enemies more reasons to fear you? Shall you rebuild our civilization, and will it stand the test of time?",
